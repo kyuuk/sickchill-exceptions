@@ -268,6 +268,12 @@
         "Arakawa Under the Bridge"
       ]
     },
+    "143471": {
+      "-1": [
+        "Yawara! A Fashionable Judo Girl",
+        "Yawara"
+      ]
+    },
     "145211": {
       "-1": [
         "Wagnaria!!"
@@ -1001,6 +1007,11 @@
         "Moonshiners"
       ]
     },
+    "254243": {
+      "-1": [
+        "Impractical Jokers"
+      ]
+    },
     "254650": {
       "-1": [
         "Cajun Pawn Stars"
@@ -1353,6 +1364,11 @@
         "Fast N' Loud"
       ]
     },
+    "259475": {
+      "-1": [
+        "Springwatch"
+      ]
+    },
     "259635": {
       "-1": [
         "Kingdom (2012)",
@@ -1660,28 +1676,39 @@
       ],
       "1": [
         "JoJo's Bizarre Adventure",
-        "JoJo Bizarre Adventure"
+        "JoJo Bizarre Adventure",
+        "JoJo no Kimyou na Bouken"
       ],
       "2": [
         "JoJo's Bizarre Adventure - Stardust Crusaders",
-        "JoJo Bizarre Adventure - Stardust Crusaders"
+        "JoJo Bizarre Adventure - Stardust Crusaders",
+        "JoJo no Kimyou na Bouken: Stardust Crusaders",
+        "JoJo's Bizarre Adventure - Stardust Crusaders Egypt Arc",
+        "JoJo Bizarre Adventure - Stardust Crusaders Egypt Arc",
+        "JoJo no Kimyou na Bouken: Stardust Crusaders 2015"
       ],
       "3": [
-        "JoJo's Bizarre Adventure - Stardust Crusaders Egypt Arc",
-        "JoJo Bizarre Adventure - Stardust Crusaders Egypt Arc"
+        "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
+        "JoJo Bizarre Adventure - Diamond is Unbreakable",
+        "JoJo's Bizarre Adventure - Diamond is Unbreakable"
       ],
       "4": [
-        "JoJo's Bizarre Adventure - Diamond is Unbreakable",
-        "JoJo Bizarre Adventure - Diamond is Unbreakable"
-      ],
-      "5": [
         "JoJo's Bizarre Adventure - Golden Wind",
         "JoJo no Kimyou na Bouken: Ougon no Kaze"
+      ],
+      "5": [
+        "JoJo's Bizarre Adventure - Stone Ocean",
+        "JoJo no Kimyou na Bouken: Stone Ocean"
       ]
     },
     "263684": {
       "-1": [
         "The Haunting Of"
+      ]
+    },
+    "263685": {
+      "-1": [
+        "Autumnwatch"
       ]
     },
     "263688": {
@@ -2208,10 +2235,13 @@
     "271591": {
       "-1": [
         "Yami Shibai - Japanese Ghost Stories",
-        "Yamishibai: Japanese Ghost Stories"
+        "Yamishibai: Japanese Ghost Stories",
+        "Yami Shibai"
       ],
       "1": [
-        "Yami Shibai"
+        "Yami Shibai",
+        "Yami Shibai - Japanese Ghost Stories",
+        "Yamishibai: Japanese Ghost Stories"
       ],
       "2": [
         "Yami Shibai 2",
@@ -2235,11 +2265,18 @@
       ],
       "6": [
         "Yami Shibai - Japanese Ghost Stories 6",
-        "Yami Shibai 6"
+        "Yami Shibai 6",
+        "Yamishibai: Japanese Ghost Stories 6"
       ],
       "7": [
         "Yami Shibai - Japanese Ghost Stories 7",
-        "Yami Shibai 7"
+        "Yami Shibai 7",
+        "Yamishibai: Japanese Ghost Stories 7"
+      ],
+      "8": [
+        "Yami Shibai 8",
+        "Yami Shibai - Japanese Ghost Stories 8",
+        "Yamishibai: Japanese Ghost Stories 8"
       ]
     },
     "271687": {
@@ -2402,11 +2439,6 @@
         "Aoki Hagane no Arpeggio: Ars Nova",
         "Arpeggio of Blue Steel: Ars Nova",
         "Aoki Hagane no Arpeggio"
-      ]
-    },
-    "272472": {
-      "-1": [
-        "Paw Patrol"
       ]
     },
     "272697": {
@@ -3220,6 +3252,10 @@
       "2": [
         "World Trigger S2",
         "World Trigger 2nd Season"
+      ],
+      "3": [
+        "World Trigger S3",
+        "World Trigger 3rd Season"
       ]
     },
     "283937": {
@@ -3329,15 +3365,23 @@
     },
     "284263": {
       "-1": [
-        "Yuuki Yuuna Wa Yuusha De Aru"
+        "Yuki Yuna is a Hero"
       ],
       "1": [
-        "Yuki Yuna is a Hero",
-        "Yuki Yuna wa Yusha de Aru"
+        "Yuki Yuna wa Yusha de Aru",
+        "Yuuki Yuuna Wa Yuusha De Aru"
       ],
       "2": [
-        "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou",
+        "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou",
         "Yuki Yuna wa Yusha de Aru - Washio Sumi no Shou"
+      ],
+      "3": [
+        "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou",
+        "Yuki Yuna wa Yusha de Aru - Yusha no Shou"
+      ],
+      "4": [
+        "Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou",
+        "Yuki Yuna wa Yusha de Aru - Dai Mankai no Shou"
       ]
     },
     "284402": {
@@ -4118,11 +4162,6 @@
         "Itoshi no Muuco"
       ]
     },
-    "302703": {
-      "-1": [
-        "Dr. Dee: Alaska Vet"
-      ]
-    },
     "303067": {
       "-1": [
         "Norn9: Norn + Nonette",
@@ -4877,6 +4916,9 @@
       "-1": [
         "Tawawa on Monday",
         "Getsuyoubi no Tawawa"
+      ],
+      "2": [
+        "Getsuyoubi no Tawawa S2"
       ]
     },
     "318451": {
@@ -4907,7 +4949,8 @@
       "2": [
         "Kobayashi-san Chi no Maid Dragon S",
         "Kobayashi-san Chi no Maidragon S",
-        "Kobayashi-san Chi no Maid Dragon S2"
+        "Kobayashi-san Chi no Maid Dragon S2",
+        "Miss Kobayashi's Dragon Maid S"
       ]
     },
     "318895": {
@@ -5134,15 +5177,11 @@
     },
     "326270": {
       "-1": [
-        "The King's Avatar"
-      ],
-      "1": [
-        "Quan Zhi Gao Shou",
-        "The King's Avatar"
+        "The King's Avatar",
+        "Quan Zhi Gao Shou"
       ],
       "2": [
-        "Quanzhi Gaoshou 2",
-        "The King's Avatar 2"
+        "Quanzhi Gaoshou 2"
       ]
     },
     "326336": {
@@ -5316,6 +5355,11 @@
       "-1": [
         "Restaurant to Another World",
         "Isekai Shokudou"
+      ],
+      "2": [
+        "Isekai Shokudou S2",
+        "Isekai Shokudou 2",
+        "Restaurant to Another World 2"
       ]
     },
     "329822": {
@@ -5512,6 +5556,14 @@
         "Frankenstein Family: Creatures Family Days"
       ]
     },
+    "333239": {
+      "-1": [
+        "TsukiPro the Animation"
+      ],
+      "2": [
+        "Tsukipro The Animation S2"
+      ]
+    },
     "333709": {
       "-1": [
         "Juni Taisen: Zodiac War",
@@ -5603,6 +5655,19 @@
         "Maerchen Maedchen",
         "M\u00e4rchen M\u00e4dchen",
         "Marchen Madchen"
+      ]
+    },
+    "337336": {
+      "-1": [
+        "IDOLiSH7"
+      ],
+      "2": [
+        "IDOLiSH7 S2",
+        "IDOLiSH7 - Second Beat!"
+      ],
+      "3": [
+        "IDOLiSH7 S3",
+        "IDOLiSH7 - Third Beat!"
       ]
     },
     "337350": {
@@ -5707,6 +5772,13 @@
       "-1": [
         "Today's Menu for Emiya Family",
         "Emiya-san Chi no Kyou no Gohan"
+      ]
+    },
+    "341295": {
+      "-1": [
+        "The Founder of Diabolism",
+        "Mo Dao Zu Shi",
+        "The Grandmaster of Demonic Cultivation"
       ]
     },
     "341425": {
@@ -6006,8 +6078,7 @@
         "Hataraku Saibou S2",
         "Hataraku Saibou!!",
         "Cells at Work!!",
-        "Cells at Work!! (S2)",
-        "Cells at Work! CODE BLACK"
+        "Cells at Work!! (S2)"
       ]
     },
     "346943": {
@@ -6124,6 +6195,15 @@
         "Kimetsu no Yaiba",
         "Demon Slayer",
         "Kimetsu no Yaiba (Demon Slayer)"
+      ],
+      "2": [
+        "Kimetsu no Yaiba S2",
+        "Kimetsu no Yaiba: Mugen Ressha Hen",
+        "Demon Slayer - Infinity Train arc"
+      ],
+      "3": [
+        "Kimetsu no Yaiba S3",
+        "Kimetsu no Yaiba: Yuukaku Hen"
       ]
     },
     "348601": {
@@ -6596,8 +6676,9 @@
     },
     "358411": {
       "-1": [
-        "Hitoribocchi no Marumaruseikatsu",
-        "Hitoribocchi no Marumaru Seikatsu"
+        "Hitori Bocchi's \u25cb\u25cb Lifestyle",
+        "Hitoribocchi no Marumaru Seikatsu",
+        "Hitoribocchi no \u25cb\u25cb Seikatsu"
       ]
     },
     "359095": {
@@ -7041,10 +7122,16 @@
     },
     "370931": {
       "-1": [
-        "Magia Record: Puella Magi Madoka Magica Side Story",
+        "Magia Record: Puella Magi Madoka Magica Side Story"
+      ],
+      "1": [
         "Magia Record",
         "Magia Record - Mahou Shoujo Madoka",
         "Magia Record - Mahou Shoujo Madoka Magica Gaiden"
+      ],
+      "2": [
+        "Magia Record - Mahou Shoujo Madoka Magica Gaiden 2nd Season",
+        "Magia Record S2"
       ]
     },
     "371040": {
@@ -7237,6 +7324,14 @@
         "Tamayomi"
       ]
     },
+    "376043": {
+      "-1": [
+        "Mewkledreamy"
+      ],
+      "2": [
+        "Mewkledreamy Mix"
+      ]
+    },
     "376126": {
       "-1": [
         "Future Folktales",
@@ -7303,7 +7398,8 @@
         "86",
         "86 - Eighty Six",
         "Eighty Six (86)",
-        "Eighty Six"
+        "Eighty Six",
+        "86 Part 2"
       ]
     },
     "378809": {
@@ -7435,6 +7531,11 @@
         "Hanyou no Yashahime: Sengoku Otogizoushi",
         "Hanyou no Yashahime",
         "Han`you no Yashahime: Sengoku Otogizoushi"
+      ],
+      "2": [
+        "Hanyou no Yashahime: Ni no Shou",
+        "Hanyou no Yashahime S2",
+        "Yashahime - Princess Half-Demon - The Second Act"
       ]
     },
     "384757": {
@@ -7452,7 +7553,8 @@
       ],
       "2": [
         "Higurashi no Naku Koro ni Sotsu",
-        "Higurashi no Naku Koro ni (2021)"
+        "Higurashi no Naku Koro ni (2021)",
+        "Higurashi - When They Cry - SOTSU"
       ]
     },
     "385077": {
@@ -7585,6 +7687,12 @@
         "Bokutachi no Remake"
       ]
     },
+    "388644": {
+      "-1": [
+        "World's End Harem",
+        "Shuumatsu no Harem"
+      ]
+    },
     "388672": {
       "-1": [
         "Heaven Official's Blessing",
@@ -7655,6 +7763,11 @@
         "Kemono Jihen"
       ]
     },
+    "390477": {
+      "-1": [
+        "Tom and Jerry in New York"
+      ]
+    },
     "390832": {
       "-1": [
         "Tsukimichi -Moonlit Fantasy-",
@@ -7679,10 +7792,22 @@
         "Kai Byoui Ramune"
       ]
     },
+    "391625": {
+      "-1": [
+        "Ranking of Kings",
+        "Ousama Ranking"
+      ]
+    },
     "391636": {
       "-1": [
         "Thus Spoke Kishibe Rohan",
         "Kishibe Rohan wa Ugokanai"
+      ]
+    },
+    "391736": {
+      "-1": [
+        "Battle Game in 5 Seconds",
+        "Deatte 5-Byou de Battle"
       ]
     },
     "391883": {
@@ -7823,6 +7948,17 @@
         "Odd Taxi"
       ]
     },
+    "397425": {
+      "-1": [
+        "Kiyo in Kyoto: From the Maiko House",
+        "Maiko-san Chi no Makanai-san"
+      ]
+    },
+    "397714": {
+      "-1": [
+        "Rugrats (2021)"
+      ]
+    },
     "397774": {
       "-1": [
         "Vivy -Fluorite Eye's Song-",
@@ -7878,6 +8014,18 @@
       "-1": [
         "Let's Make a Mug Too",
         "Yakunara Mug Cup mo"
+      ],
+      "2": [
+        "Yakunara Mug Cup mo S2",
+        "Let's Make a Mug Too: Second Kiln"
+      ]
+    },
+    "398193": {
+      "-1": [
+        "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
+        "Ansatsu Kizoku",
+        "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei Suru",
+        "Ansatsu Kizoku (The world's best assassin)"
       ]
     },
     "398544": {
@@ -7898,11 +8046,30 @@
         "Bishounen Tanteidan"
       ]
     },
+    "400003": {
+      "-1": [
+        "PuraOre! ~Pride of Orange~",
+        "Puraore! Pride of Orange"
+      ]
+    },
+    "400015": {
+      "-1": [
+        "The Vampire Dies in No Time",
+        "Kyuuketsuki Sugu Shinu"
+      ]
+    },
     "400133": {
       "-1": [
         "The Case Study of Vanitas",
         "Vanitas no Karte",
         "Vanitas no Carte"
+      ]
+    },
+    "400573": {
+      "-1": [
+        "Banished From the Heroes' Party",
+        "Shin no Nakama",
+        "Shin no Nakama ja Nai to Yuusha no Party o Oidasareta node, Henkyou de Slow Life Suru Koto ni Shimashita"
       ]
     },
     "400642": {
@@ -7918,16 +8085,115 @@
         "Uramichi Oniisan"
       ]
     },
+    "401258": {
+      "-1": [
+        "Kageki Shojo!!",
+        "Kageki Shoujo!!"
+      ]
+    },
+    "401855": {
+      "-1": [
+        "Irina: The Vampire Cosmonaut",
+        "Tsuki to Laika to Nosferatu"
+      ]
+    },
+    "401856": {
+      "-1": [
+        "The Idaten Deities Know Only Peace",
+        "Heion Sedai no Idaten-tachi"
+      ]
+    },
+    "401874": {
+      "-1": [
+        "My Senpai is Annoying",
+        "Senpai ga Uzai Kouhai no Hanashi"
+      ]
+    },
+    "401899": {
+      "-1": [
+        "Taisho Otome Fairy Tale",
+        "Taishou Otome Otogibanashi"
+      ]
+    },
+    "401906": {
+      "-1": [
+        "Rumble Garanndoll",
+        "Gyakuten Sekai no Denchi Shoujo"
+      ]
+    },
     "401911": {
       "-1": [
         "The Great Jahy Will Not Be Defeated!",
         "Jahy-sama wa Kujikenai!"
       ]
     },
+    "401915": {
+      "-1": [
+        "The Faraway Paladin",
+        "Saihate no Paladin"
+      ]
+    },
+    "401918": {
+      "-1": [
+        "Build Divide - #000000 (Code Black)",
+        "Build Divide - Code Black"
+      ]
+    },
     "402094": {
       "-1": [
         "Drug Store in Another World: The Slow Life of a Cheat Pharmacist",
-        "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore"
+        "Cheat Kusushi no Slow Life - Isekai ni Tsukurou Drugstore"
+      ]
+    },
+    "402127": {
+      "-1": [
+        "Can I Make Your Ears Happy in 180 Seconds?",
+        "180-byou de Kimi no Mimi wo Shiawase ni Dekiru ka?",
+        "180 Byou de Kimi no Mimi o Shiawase ni Dekiru ka?"
+      ]
+    },
+    "402182": {
+      "-1": [
+        "Megaton-class Musashi",
+        "Megaton-kyuu Musashi"
+      ]
+    },
+    "402227": {
+      "-1": [
+        "AMAIM Warrior at the Borderline",
+        "Kyoukai Senki"
+      ]
+    },
+    "402412": {
+      "-1": [
+        "Komi Can't Communicate",
+        "Komi-san wa, Komyushou desu",
+        "Komi-san wa, Comyushou desu"
+      ]
+    },
+    "402636": {
+      "-1": [
+        "The Fruit of Evolution: Before I Knew It, My Life Had It Made",
+        "Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
+        "Shinka no Mi"
+      ]
+    },
+    "405661": {
+      "-1": [
+        "takt op.Destiny",
+        "takt op Destiny"
+      ]
+    },
+    "407852": {
+      "-1": [
+        "The Night Beyond the Tricornered Window",
+        "Sankaku Mado no Sotogawa wa Yoru"
+      ]
+    },
+    "409529": {
+      "-1": [
+        "The Heike Story",
+        "Heike Monogatari"
       ]
     },
     "70668": {
@@ -8049,6 +8315,11 @@
         "Lupin the Third: Part 5",
         "Lupin Sansei: Part 5",
         "Lupin III Part V"
+      ],
+      "6": [
+        "Lupin III - Part 6",
+        "Lupin the Third Part 6",
+        "Lupin Sansei: Part 6"
       ]
     },
     "71949": {
@@ -8114,6 +8385,11 @@
     "73141": {
       "-1": [
         "American Dad!"
+      ]
+    },
+    "73247": {
+      "-1": [
+        "Bubblegum Crisis"
       ]
     },
     "73388": {
@@ -9273,11 +9549,6 @@
     "80660": {
       "-1": [
         "The Graham Norton Show"
-      ]
-    },
-    "80747": {
-      "-1": [
-        "The Gadget show"
       ]
     },
     "80748": {
